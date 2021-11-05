@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  "longest_common_prefix-14",
+  "longest_valid_paren-32",
+  "two_sum-1",
+  "longest_substring_without-3",
+  "reverse_integer-7",
+]
